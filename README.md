@@ -44,9 +44,9 @@ Create and post content on the news feed.
 
 **Oghenemaero Eguwe**
 
-[GitHub](https://github.com/Christopher-kenway)
-[LinkedIn](https://www.linkedin.com/in/oghenemaero-eguwe-490b2a1a6/)
-[Email](maero1eguwe@gmail.com)
+-[GitHub](https://github.com/Christopher-kenway)
+-[LinkedIn](https://www.linkedin.com/in/oghenemaero-eguwe-490b2a1a6/)
+-[Email](maero1eguwe@gmail.com)
 
 
 
