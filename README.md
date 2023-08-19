@@ -9,8 +9,8 @@ This project is a clone of the LinkedIn website, built using React, Redux, and F
 - [Technologies Used](#technologies-used)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
+- [Author](#Author)
+
 
 ## Demo
 
@@ -34,10 +34,20 @@ You can access a live demo of the LinkedIn Clone at [https://linkedin-clone-1796
 - Material-UI
 - CSS for styling
 
-Usage
+##Usage
+
 Register and log in to the LinkedIn Clone.
 Explore the news feed, profiles, and messaging features.
 Create and post content on the news feed.
+
+## Author
+
+**Oghenemaero Eguwe**
+
+[GitHub](https://github.com/Christopher-kenway)
+[LinkedIn](https://www.linkedin.com/in/oghenemaero-eguwe-490b2a1a6/)
+[Email](maero1eguwe@gmail.com)
+
 
 
 
