@@ -14,7 +14,7 @@ This project is a clone of the LinkedIn website, built using React, Redux, and F
 
 ## Demo
 
-You can access a live demo of the LinkedIn Clone at [Demo Link](#).
+You can access a live demo of the LinkedIn Clone at [https://linkedin-clone-17964.web.app](#).
 
 ## Features
 
@@ -23,7 +23,7 @@ You can access a live demo of the LinkedIn Clone at [Demo Link](#).
 - User profiles with avatars and details.
 - Messaging feature.
 - Real-time updates using Firebase Realtime Database.
-- Responsive design for various devices.
+
 
 ## Technologies Used
 
@@ -34,9 +34,11 @@ You can access a live demo of the LinkedIn Clone at [Demo Link](#).
 - Material-UI
 - CSS for styling
 
-## Installation
+Usage
+Register and log in to the LinkedIn Clone.
+Explore the news feed, profiles, and messaging features.
+Create and post content on the news feed.
 
-1. Clone the repository:
 
-   ```bash
-   git clone https://github.com/yourusername/linkedin-clone.git
+
+
